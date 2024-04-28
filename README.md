@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=grxxn's%20github&textBg=false&animation=fadeIn)
 
 <div align="center">  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+3%EB%85%84%EC%B0%A8+%EC%9B%B9+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%A0%84%EC%98%81%EC%A3%BC%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DB1D&random=false&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+3%EB%85%84%EC%B0%A8+%EC%9B%B9+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%A0%84%EC%98%81%EC%A3%BC%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 
 <br/>
